@@ -2,7 +2,7 @@
 
 We are thrilled to introduce our latest project, the Calculator Web Page, a user-friendly online calculator that simplifies basic arithmetic operations. Whether you're a math enthusiast or simply need to perform quick calculations, this tool has got you covered!
 
-🌐 Check it out here: Calculator Web Page (Insert your GitHub repository link here)
+🌐 Check it out here: Calculator Web Page (https://vasanth-p.github.io/Calculator/)
 
 🔍 Key Features:
 
